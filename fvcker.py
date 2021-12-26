@@ -1,4 +1,4 @@
-import os, requests, signal, sys, time
+import os, requests, signal, sys
 from colorama import Fore
 
 def exit_handler(signal, frame):
