@@ -7,6 +7,6 @@ pip install -r requirements.txt
 ```
 
 To start the Token nuker run this command on your terminal:
-`py fvkcer.py`
+`python3 fvkcer.py`
 
 If you are in Windows, run the "iniciar.bat" file
